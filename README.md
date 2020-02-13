@@ -3,8 +3,8 @@
 ### Author: Travis Skyles
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
+* [submission PR](https://github.com/tskyles/401-lab-00/pull/1)
+* [travis](https://travis-ci.com/tskyles/401-lab-00/jobs/286721129)
 * [heroku](https://tskyles-401-lab-00.herokuapp.com/)
 
 #### Documentation
